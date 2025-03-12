@@ -1,0 +1,527 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		553F1DDD28B8AC2A00AE3643 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 553F1DDC28B8AC2A00AE3643 /* main.cpp */; };
+		55FEE2F528A28AB200E1BE63 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 55FEE2F428A28AB200E1BE63 /* main.cpp */; };
+		55FEE30228A28AC400E1BE63 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 55FEE30128A28AC400E1BE63 /* main.cpp */; };
+		55FEE30D28A298EA00E1BE63 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 55FEE30C28A298EA00E1BE63 /* main.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		553F1DD828B8AC2A00AE3643 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		55FEE2EF28A28AB200E1BE63 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		55FEE2FD28A28AC400E1BE63 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		55FEE30828A298EA00E1BE63 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		553F1DDA28B8AC2A00AE3643 /* Chernovik 2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Chernovik 2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		553F1DDC28B8AC2A00AE3643 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		55FEE2F128A28AB200E1BE63 /* Chernovik */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Chernovik; sourceTree = BUILT_PRODUCTS_DIR; };
+		55FEE2F428A28AB200E1BE63 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		55FEE2FF28A28AC400E1BE63 /* Yandex 1§ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Yandex 1§"; sourceTree = BUILT_PRODUCTS_DIR; };
+		55FEE30128A28AC400E1BE63 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		55FEE30A28A298EA00E1BE63 /* Yandex 2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Yandex 2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		55FEE30C28A298EA00E1BE63 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		553F1DD728B8AC2A00AE3643 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		55FEE2EE28A28AB200E1BE63 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		55FEE2FC28A28AC400E1BE63 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		55FEE30728A298EA00E1BE63 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		553F1DDB28B8AC2A00AE3643 /* Chernovik 2 */ = {
+			isa = PBXGroup;
+			children = (
+				553F1DDC28B8AC2A00AE3643 /* main.cpp */,
+			);
+			path = "Chernovik 2";
+			sourceTree = "<group>";
+		};
+		55FEE2E828A28AB200E1BE63 = {
+			isa = PBXGroup;
+			children = (
+				55FEE2F328A28AB200E1BE63 /* Chernovik */,
+				55FEE30028A28AC400E1BE63 /* Yandex 1 */,
+				55FEE30B28A298EA00E1BE63 /* Yandex 2 */,
+				553F1DDB28B8AC2A00AE3643 /* Chernovik 2 */,
+				55FEE2F228A28AB200E1BE63 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		55FEE2F228A28AB200E1BE63 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				55FEE2F128A28AB200E1BE63 /* Chernovik */,
+				55FEE2FF28A28AC400E1BE63 /* Yandex 1§ */,
+				55FEE30A28A298EA00E1BE63 /* Yandex 2 */,
+				553F1DDA28B8AC2A00AE3643 /* Chernovik 2 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		55FEE2F328A28AB200E1BE63 /* Chernovik */ = {
+			isa = PBXGroup;
+			children = (
+				55FEE2F428A28AB200E1BE63 /* main.cpp */,
+			);
+			path = Chernovik;
+			sourceTree = "<group>";
+		};
+		55FEE30028A28AC400E1BE63 /* Yandex 1 */ = {
+			isa = PBXGroup;
+			children = (
+				55FEE30128A28AC400E1BE63 /* main.cpp */,
+			);
+			path = "Yandex 1";
+			sourceTree = "<group>";
+		};
+		55FEE30B28A298EA00E1BE63 /* Yandex 2 */ = {
+			isa = PBXGroup;
+			children = (
+				55FEE30C28A298EA00E1BE63 /* main.cpp */,
+			);
+			path = "Yandex 2";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		553F1DD928B8AC2A00AE3643 /* Chernovik 2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 553F1DE028B8AC2A00AE3643 /* Build configuration list for PBXNativeTarget "Chernovik 2" */;
+			buildPhases = (
+				553F1DD628B8AC2A00AE3643 /* Sources */,
+				553F1DD728B8AC2A00AE3643 /* Frameworks */,
+				553F1DD828B8AC2A00AE3643 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Chernovik 2";
+			productName = "Chernovik 2";
+			productReference = 553F1DDA28B8AC2A00AE3643 /* Chernovik 2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		55FEE2F028A28AB200E1BE63 /* Chernovik */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 55FEE2F828A28AB200E1BE63 /* Build configuration list for PBXNativeTarget "Chernovik" */;
+			buildPhases = (
+				55FEE2ED28A28AB200E1BE63 /* Sources */,
+				55FEE2EE28A28AB200E1BE63 /* Frameworks */,
+				55FEE2EF28A28AB200E1BE63 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Chernovik;
+			productName = Chernovik;
+			productReference = 55FEE2F128A28AB200E1BE63 /* Chernovik */;
+			productType = "com.apple.product-type.tool";
+		};
+		55FEE2FE28A28AC400E1BE63 /* Yandex 1§ */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 55FEE30328A28AC400E1BE63 /* Build configuration list for PBXNativeTarget "Yandex 1§" */;
+			buildPhases = (
+				55FEE2FB28A28AC400E1BE63 /* Sources */,
+				55FEE2FC28A28AC400E1BE63 /* Frameworks */,
+				55FEE2FD28A28AC400E1BE63 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Yandex 1§";
+			productName = "Yandex 1§";
+			productReference = 55FEE2FF28A28AC400E1BE63 /* Yandex 1§ */;
+			productType = "com.apple.product-type.tool";
+		};
+		55FEE30928A298EA00E1BE63 /* Yandex 2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 55FEE30E28A298EA00E1BE63 /* Build configuration list for PBXNativeTarget "Yandex 2" */;
+			buildPhases = (
+				55FEE30628A298EA00E1BE63 /* Sources */,
+				55FEE30728A298EA00E1BE63 /* Frameworks */,
+				55FEE30828A298EA00E1BE63 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Yandex 2";
+			productName = "Yandex 2";
+			productReference = 55FEE30A28A298EA00E1BE63 /* Yandex 2 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		55FEE2E928A28AB200E1BE63 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1330;
+				TargetAttributes = {
+					553F1DD928B8AC2A00AE3643 = {
+						CreatedOnToolsVersion = 13.3;
+					};
+					55FEE2F028A28AB200E1BE63 = {
+						CreatedOnToolsVersion = 13.3;
+					};
+					55FEE2FE28A28AC400E1BE63 = {
+						CreatedOnToolsVersion = 13.3;
+					};
+					55FEE30928A298EA00E1BE63 = {
+						CreatedOnToolsVersion = 13.3;
+					};
+				};
+			};
+			buildConfigurationList = 55FEE2EC28A28AB200E1BE63 /* Build configuration list for PBXProject "Chernovik" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 55FEE2E828A28AB200E1BE63;
+			productRefGroup = 55FEE2F228A28AB200E1BE63 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				55FEE2F028A28AB200E1BE63 /* Chernovik */,
+				55FEE2FE28A28AC400E1BE63 /* Yandex 1§ */,
+				55FEE30928A298EA00E1BE63 /* Yandex 2 */,
+				553F1DD928B8AC2A00AE3643 /* Chernovik 2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		553F1DD628B8AC2A00AE3643 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				553F1DDD28B8AC2A00AE3643 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		55FEE2ED28A28AB200E1BE63 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				55FEE2F528A28AB200E1BE63 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		55FEE2FB28A28AC400E1BE63 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				55FEE30228A28AC400E1BE63 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		55FEE30628A298EA00E1BE63 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				55FEE30D28A298EA00E1BE63 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		553F1DDE28B8AC2A00AE3643 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		553F1DDF28B8AC2A00AE3643 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		55FEE2F628A28AB200E1BE63 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		55FEE2F728A28AB200E1BE63 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		55FEE2F928A28AB200E1BE63 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		55FEE2FA28A28AB200E1BE63 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		55FEE30428A28AC400E1BE63 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		55FEE30528A28AC400E1BE63 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		55FEE30F28A298EA00E1BE63 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		55FEE31028A298EA00E1BE63 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		553F1DE028B8AC2A00AE3643 /* Build configuration list for PBXNativeTarget "Chernovik 2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				553F1DDE28B8AC2A00AE3643 /* Debug */,
+				553F1DDF28B8AC2A00AE3643 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		55FEE2EC28A28AB200E1BE63 /* Build configuration list for PBXProject "Chernovik" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				55FEE2F628A28AB200E1BE63 /* Debug */,
+				55FEE2F728A28AB200E1BE63 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		55FEE2F828A28AB200E1BE63 /* Build configuration list for PBXNativeTarget "Chernovik" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				55FEE2F928A28AB200E1BE63 /* Debug */,
+				55FEE2FA28A28AB200E1BE63 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		55FEE30328A28AC400E1BE63 /* Build configuration list for PBXNativeTarget "Yandex 1§" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				55FEE30428A28AC400E1BE63 /* Debug */,
+				55FEE30528A28AC400E1BE63 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		55FEE30E28A298EA00E1BE63 /* Build configuration list for PBXNativeTarget "Yandex 2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				55FEE30F28A298EA00E1BE63 /* Debug */,
+				55FEE31028A298EA00E1BE63 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 55FEE2E928A28AB200E1BE63 /* Project object */;
+}
