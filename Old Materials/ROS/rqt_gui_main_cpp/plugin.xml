@@ -1,0 +1,16 @@
+<library path="lib/librqt_gui_main_cpp">
+  <class name="rqt_gui_main_cpp/MyPlugin" type="rqt_gui_main_cpp::MyPlugin" base_class_type="rqt_gui_cpp::Plugin">
+    <description>
+      GUI
+    </description>
+    <qtgui>
+      <group>
+        <label>Swarm GUI</label>
+        <icon type="theme">folder</icon>
+      </group>
+      <label>Main Window</label>
+      <icon type="theme">system-help</icon>
+      <statustip>In development.</statustip>
+    </qtgui>
+  </class>
+</library>
